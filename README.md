@@ -16,6 +16,11 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=ffffff)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![GDB](https://img.shields.io/badge/GDB-Debugger-313131?style=flat-square&logo=gdb&logoColor=white)](https://www.gnu.org/software/gdb/)
+[![CLion](https://img.shields.io/badge/CLion-IDE-00BFFF?style=flat-square&logo=clion&logoColor=green)](https://www.jetbrains.com/clion/)
+
+
+
 
 
 

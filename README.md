@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/语雀-25a768?style=flat-square&logo=yuque&logoColor=white" alt="Yuque">
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=xiaoyangst&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoyangst" />
+
 </p>
 
 

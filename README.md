@@ -1,6 +1,11 @@
 
 <p align="center">
 <a href="https://github.com/xiaoyangst" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+
+<a href="https://www.yuque.com/xiaoyang-wyxle" target="_blank">
+  <img src="https://img.shields.io/badge/语雀-25a768?style=flat-square&logo=yuque&logoColor=white" alt="Yuque">
+</a>
+
 </p>
 
 
